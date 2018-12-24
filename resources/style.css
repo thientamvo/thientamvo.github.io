@@ -1,0 +1,31 @@
+html {
+  font-family: Helvetica; /*looks like the whole page use Helvetica even though this was not specified in the spec*/
+}
+
+header {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("./pattern.jpeg");
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white
+}
+#brushes {
+  background-color: mediumspringgreen;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
+p strong {
+  font-weight: bold;
+  color: blue;
+}
